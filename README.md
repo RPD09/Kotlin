@@ -9,8 +9,8 @@ Welcome to my **Kotlin** repository! This is where I'll be uploading and organiz
 - **Projects/**: Mini-projects to showcase concepts in practice.
 
 ## 🗓️ Current Progress
-- **Week 1**: Basics of Kotlin, working with variables, functions, and null safety.
-- **Week 2**: Object-Oriented Programming in Kotlin, classes, and inheritance.
+- **Week 1**: Basics of Kotlin, working with variables and functions
+- **Week 2**: Object-Oriented Programming in Kotlin, classes, and loops.
 - More coming soon! 🚀
 
 ---
